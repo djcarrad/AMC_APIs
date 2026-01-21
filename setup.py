@@ -6,6 +6,7 @@ setup(
     version="0.1.0",
     description="Package for actually installing the attocube python APIs",
     author="djcarrad",
+    url="https://github.com/djcarrad/AMC_APIs",
     packages=find_packages(),
     python_requires=">=3.6",
     install_requires=[],
